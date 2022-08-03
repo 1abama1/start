@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a968336c-2ab3-4aa3-98b8-ea8f2c391436" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2BkCBPqJrppDmrNm2uTlYcrfuwU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a968336c-2ab3-4aa3-98b8-ea8f2c391436" name="Default Changelist" comment="" />
+      <created>1657440559882</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657440559882</updated>
+      <workItem from="1657440567412" duration="1311000" />
+      <workItem from="1657441975164" duration="1651000" />
+      <workItem from="1657551531082" duration="495000" />
+      <workItem from="1658596254821" duration="130000" />
+      <workItem from="1658635971113" duration="1729000" />
+      <workItem from="1658677856821" duration="567000" />
+      <workItem from="1658844273770" duration="1248000" />
+      <workItem from="1658848492416" duration="1792000" />
+      <workItem from="1658937328886" duration="1725000" />
+      <workItem from="1658939404917" duration="1717000" />
+      <workItem from="1658941302472" duration="1604000" />
+      <workItem from="1659003628168" duration="1641000" />
+      <workItem from="1659005635126" duration="592000" />
+      <workItem from="1659019686612" duration="1698000" />
+      <workItem from="1659021527393" duration="1993000" />
+      <workItem from="1659023873712" duration="436000" />
+      <workItem from="1659092406962" duration="1635000" />
+      <workItem from="1659094837923" duration="1794000" />
+      <workItem from="1659096947334" duration="725000" />
+      <workItem from="1659101495353" duration="841000" />
+      <workItem from="1659102538635" duration="1540000" />
+      <workItem from="1659104395631" duration="1758000" />
+      <workItem from="1659106267380" duration="1756000" />
+      <workItem from="1659108104819" duration="810000" />
+      <workItem from="1659175496510" duration="1802000" />
+      <workItem from="1659177445417" duration="1751000" />
+      <workItem from="1659179471665" duration="1777000" />
+      <workItem from="1659181322769" duration="1289000" />
+      <workItem from="1659183166099" duration="1753000" />
+      <workItem from="1659185007137" duration="1473000" />
+      <workItem from="1659187246638" duration="1727000" />
+      <workItem from="1659189071305" duration="1075000" />
+      <workItem from="1659242456379" duration="1716000" />
+      <workItem from="1659245067423" duration="1548000" />
+      <workItem from="1659246794096" duration="751000" />
+      <workItem from="1659250394432" duration="1689000" />
+      <workItem from="1659252949969" duration="1692000" />
+      <workItem from="1659259897086" duration="1638000" />
+      <workItem from="1659261826783" duration="1702000" />
+      <workItem from="1659263863640" duration="1662000" />
+      <workItem from="1659265705086" duration="1671000" />
+      <workItem from="1659280375733" duration="476000" />
+      <workItem from="1659280882604" duration="220000" />
+      <workItem from="1659285007203" duration="1657000" />
+      <workItem from="1659286816168" duration="2044000" />
+      <workItem from="1659347959539" duration="600000" />
+      <workItem from="1659349948772" duration="589000" />
+      <workItem from="1659366513225" duration="1701000" />
+      <workItem from="1659368344699" duration="1707000" />
+      <workItem from="1659370241041" duration="1748000" />
+      <workItem from="1659372158968" duration="1731000" />
+      <workItem from="1659373979663" duration="1091000" />
+      <workItem from="1659439243323" duration="593000" />
+      <workItem from="1659452526055" duration="1652000" />
+      <workItem from="1659454278016" duration="1742000" />
+      <workItem from="1659457291837" duration="1702000" />
+      <workItem from="1659459179790" duration="1578000" />
+      <workItem from="1659532490700" duration="1791000" />
+      <workItem from="1659534385620" duration="1730000" />
+      <workItem from="1659536246604" duration="311000" />
+      <workItem from="1659537362867" duration="52000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="339" y="162" key="run.anything.popup" timestamp="1659245380401">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1659245380401" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1659458143124">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1659458143124" />
+  </component>
+</project>
